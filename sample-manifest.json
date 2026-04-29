@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a54cfd53-424c-48b9-8a4a-261171934a55",
+  "export_job_id": "981b6d4a-a5c7-4484-a5ba-4093aab0b6fc",
   "id_short": 782342,
-  "published_at": "2026-04-23T07:10:28Z",
+  "published_at": "2026-04-29T19:43:38Z",
   "repo_name": "tech-ready-restaurants-in-the-cincinnati-metro-area-oh-ky-in-us-sample-782342",
   "sample_asset_name": "beamstation_782342_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/782342/beamstation_782342_restaurants-us-cincinnatiohkyin_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "6b8233619afd224bbad96d8aa6fcf80a498401af65ad8a12a7a92e775c334825",
-  "sample_size_bytes": 20223,
-  "total_records": 5
+  "sample_records": 2,
+  "sample_sha256": "cc48ca6e3491b1fdbae265b6ffd480bd605c76eec0de52caea1772d81e054887",
+  "sample_size_bytes": 23616,
+  "total_records": 26
 }
